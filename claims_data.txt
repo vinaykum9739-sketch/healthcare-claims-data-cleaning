@@ -1,0 +1,10 @@
+C001,John,5000,Approved
+C002,Ram,abc,Pending
+C003,Anitha,7000,Approved
+C004,David,-200,Approved
+C005,Meena,,Approved
+C006,Kiran,3000,Rejected
+C007,Arjun,15000,Approved
+C008,Ravi,4000,Approved
+C009,Sam,2500,Pending
+C010,Neha,6000,Approved
